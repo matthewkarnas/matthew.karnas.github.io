@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Matthew Karnas
-logo: # You can add own logo. For example "/images/logo.png".
+logo: /images/matt-profile.png
 description: Matthew Karnas
 
 
@@ -10,7 +10,7 @@ description: Matthew Karnas
 author:
   author__name: Matthew Karnas
   author__bio: This is a test
-  author__avatar: /images/01-1.jpg
+  author__avatar: /images/matt-profile.png
 
 
 #-------------------------------
